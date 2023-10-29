@@ -1,0 +1,47 @@
+*{
+    overflow-x: hidden;
+}
+.download{
+    background-color: #6d1830;
+    color: #fff;
+    width: 200px;
+    height: 50px;
+   border-radius: 10px;
+   border: none;
+}
+.all{
+padding-top: 100px;
+}
+.head{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.padd{
+    padding-top: 30px;
+padding-bottom: 30px;
+}
+.collordiv{
+    background-color: #14384d;
+}
+.allwhite{
+    color: white;
+    padding-top:100px;
+}
+.divcolor2{
+    background-color: #6d1830;
+}
+.input01{
+  height: 100px;
+}
+.input02{
+    height: 50px; 
+    color: #6d1830; 
+    background-color: #fef8f2;
+    border: none;
+  }
+  .sub{
+padding: 0;
+border-radius: 5px;
+  }
+
