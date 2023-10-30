@@ -14,7 +14,7 @@ padding-top: 100px;
 }
 .head{
     font-family: Arial;
-    font-size: 20px;
+    font-size: 15px;
     font-weight: bolder;
 }
 .padd{
@@ -44,5 +44,11 @@ padding-bottom: 30px;
 padding: 0;
 border-radius: 5px;
   }
- 
+  .colorblue{
+    background-color: #14384d;
+    color: whitesmoke;
+
+
+  }
+
 
