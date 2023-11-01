@@ -59,5 +59,19 @@ border-radius: 5px;
    border-radius: 10px;
    border: none;
   }
-  
+ .cen{
+  padding: 10px;
+ }
+ .input{
+  height: 50px;
+  border-radius: 5px;
+ }
+ .input2{
+  height: 200px;
+  border-radius: 5px;
+ }
+ .color{
+  background-color: #fff8f3;
+ }
+
 
